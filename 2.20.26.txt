@@ -1,0 +1,27 @@
+Things to do:
+[x]Finish writing out source descriptions for English
+[]Finish CS 330 Induction Homework
+[]Finish half of CS 330 Program Verification videos
+[]Code for at least 30 min
+[]Do CS 262 Lab
+------------------------
+Started English at 11:10 AM
+Finished English at 12:03 PM
++53 min
+Total time: 53 min
+------------------------
+Started English at 12:14 PM
+Finished English at 12:31 PM
++17 min
+Total time: 70 min 
+------------------------
+Started CS 330  at 12:37 PM
+Finished CS 330  at 1:07 PM
++30 min
+Total time: 100 min
+------------------------
+Started English at 1:15 PM
+Finished English at 1:48 PM
++33 min
+Total time: 133 min
+------------------------
