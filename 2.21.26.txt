@@ -1,0 +1,23 @@
+Things to do:
+[x]Finish Lab for CS 262
+[]Just finish the fucking astrology video lmao
+[]Finish Program Verification videos and practice problems
+[]Finish HW 4 for CS 330
+[]30 minutes of programming
+------------------------
+Started CS 262 at 12:17 PM
+Finished CS 262 at 12:47 PM
++30 minutes
+Total time: 30 minutes
+------------------------
+Started CS 262 at 12:57 PM
+Finished CS 262 at 01:35 PM
++38 minutes
+Total time: 68 minutes
+------------------------
+Started CS 262 at 01:43 PM
+Finished CS 262 at 02:40 PM
++57 minutes
+Total time: 125 minutes
+------------------------
+
